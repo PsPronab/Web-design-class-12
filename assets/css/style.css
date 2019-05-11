@@ -1,0 +1,17 @@
+.navMain
+{
+    width:8%;
+}
+.navMain a
+{
+ text-decoration: none;
+ color: black;
+}
+.dropdownMenu
+{
+display:none;
+}
+.navMain:hover .dropdownMenu
+{
+    display:block;
+}
